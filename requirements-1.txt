@@ -1,0 +1,3 @@
+python-telegram-bot[job-queue]==20.7
+python-binance==1.0.19
+httpx==0.24.1
